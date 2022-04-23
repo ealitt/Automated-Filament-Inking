@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",
-    "@monaco-editor/react": "^4.4.1",
+    "@monaco-editor/react": "^4.4.2",
     "@react-three/a11y": "^2.2.3",
     "@react-three/drei": "^8.19.2",
     "@react-three/fiber": "^7.0.26",
