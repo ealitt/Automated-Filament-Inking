@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "build-static": "next build && next export",
-    "deploy": "next build && next export && git add out/ && git commit -m \"Deploy gh-pages\" && git subtree push --prefix \"Web Interface/out\" origin gh-pages"
+    "deploy": "next build && next export && git add out/ && git commit -m \"Deploy gh-pages\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",

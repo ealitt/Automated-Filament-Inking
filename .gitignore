@@ -27,3 +27,4 @@ Web Interface/.next/
 Web Interface/node_modules/
 Automated Filament Inking.zip
 .next/
+.vercel
