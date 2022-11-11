@@ -43,11 +43,11 @@ See our [project page](https://dartgo.org/color-fff) for more details.
 
 ## Acknowledgements
 
-This work was partially supported by NSF award** **[1844538](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844538&HistoricalAwards=false).
+This work was partially supported by NSF award [1844538](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844538&HistoricalAwards=false).
 
 ## Cite
 
-Eammon Littler, **[Bo Zhu](https://cs.dartmouth.edu/~bozhu/),****[Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/). Automated filament inking for multi-color FFF 3D printing.***ACM Symposium on User Interface Software and Technology (UIST)* , October 2022.
+Eammon Littler, [Bo Zhu](https://cs.dartmouth.edu/~bozhu/), [Wojciech Jarosz](https://www.cs.dartmouth.edu/~wjarosz/). Automated filament inking for multi-color FFF 3D printing. *ACM Symposium on User Interface Software and Technology (UIST)* , October 2022.
 
 ```
 @inproceedings{littler22automated,
